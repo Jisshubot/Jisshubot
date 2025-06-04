@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑂𝑛 𝑆𝑝𝑜𝑡𝑖𝑓𝑦 </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
